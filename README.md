@@ -1,2 +1,2 @@
 # ProjetoDeMPI
- MicroProgramaçãoInformática
+ **MicroProgramação em Informática**
