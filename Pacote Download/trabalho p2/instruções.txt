@@ -1,0 +1,8 @@
+Fiz pelo gpt, daí ele deixou bem organizado e explicado cada parte do código, porém quando for jogar pra ele novamente pedir para ele explicar cada 
+parte pra relembrar.
+
+bugs: 
+formulario muito grande.
+marcadores errados.
+e quando clica na parte cadastros dá o seguinte erro: Não foi possível acessar seu arquivo. Talvez ele tenha sido movido, editado ou excluído.
+ERR_FILE_NOT_FOUND.
